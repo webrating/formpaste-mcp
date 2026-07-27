@@ -1,0 +1,15 @@
+{
+  "name": "formpaste-mcp",
+  "version": "1.0.0",
+  "description": "Create and wire up contact forms from your coding agent. Six tools for forms, snippets, and submissions.",
+  "type": "module",
+  "bin": { "formpaste-mcp": "./bin/formpaste-mcp.js" },
+  "files": ["bin", "src", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "keywords": ["mcp", "modelcontextprotocol", "forms", "form-backend", "contact-form", "ai-agent"],
+  "homepage": "https://formpaste.com",
+  "repository": { "type": "git", "url": "git+https://github.com/webrating/formpaste-mcp.git" },
+  "license": "MIT",
+  "scripts": { "test": "vitest run" },
+  "devDependencies": { "vitest": "^4.1.10" }
+}
