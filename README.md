@@ -100,5 +100,6 @@ See [`examples/wire-a-form.md`](examples/wire-a-form.md) for a full walkthrough:
 ## Links
 
 - Documentation: https://formpaste.com/docs
-- Agent docs: https://formpaste.com/docs/agents
+- MCP server docs: https://formpaste.com/docs/agents/mcp-server
+- Install guide: https://formpaste.com/docs/agents/install
 - Issues: https://github.com/webrating/formpaste-mcp/issues
