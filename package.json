@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Create and wire up contact forms from your coding agent. Six tools for forms, snippets, and submissions.",
   "type": "module",
-  "bin": { "formpaste-mcp": "./bin/formpaste-mcp.js" },
+  "bin": { "formpaste-mcp": "bin/formpaste-mcp.js" },
   "files": ["bin", "src", "README.md", "LICENSE"],
   "engines": { "node": ">=18" },
   "keywords": ["mcp", "modelcontextprotocol", "forms", "form-backend", "contact-form", "ai-agent"],
